@@ -42,3 +42,8 @@ body{
   width: 30%;
   height: 30%;
 }
+
+.partners{
+  background-image: url("images/placeholder.png");
+  height: 50vh;
+}
